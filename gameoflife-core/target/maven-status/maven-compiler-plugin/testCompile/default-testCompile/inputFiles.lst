@@ -1,0 +1,10 @@
+/root/game-of-life/gameoflife-core/src/test/java/com/wakaleo/gameoflife/test/categories/SlowTests.java
+/root/game-of-life/gameoflife-core/src/test/java/com/wakaleo/gameoflife/domain/WhenYouPrintAGrid.java
+/root/game-of-life/gameoflife-core/src/test/java/com/wakaleo/gameoflife/domain/WhenYouCreateAGrid.java
+/root/game-of-life/gameoflife-core/src/test/java/com/wakaleo/gameoflife/domain/WhenYouReadAGridFromAString.java
+/root/game-of-life/gameoflife-core/src/test/java/com/wakaleo/gameoflife/test/categories/IntegrationTests.java
+/root/game-of-life/gameoflife-core/src/test/java/com/wakaleo/gameoflife/domain/WhenYouCreateANewUniverse.java
+/root/game-of-life/gameoflife-core/src/test/java/com/wakaleo/gameoflife/integration/WhenYouStoreGamesInADatabase.java
+/root/game-of-life/gameoflife-core/src/test/java/com/wakaleo/gameoflife/domain/WhenYouCreateACell.java
+/root/game-of-life/gameoflife-core/src/test/java/com/wakaleo/gameoflife/test/categories/RegressionTests.java
+/root/game-of-life/gameoflife-core/src/test/java/com/wakaleo/gameoflife/domain/WhenYouPlayTheGameOfLife.java
