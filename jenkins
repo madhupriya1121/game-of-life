@@ -14,5 +14,12 @@ pipeline {
        git 'https://github.com/madhupriya1121/game-of-life.git'
     }
   }
+  stage('compile and build') {
+      steps {
+          sh '''
+          mvn clean install -U -Dmaven.skip.test=true
+          '''
+      }
+  }
 }
 }
