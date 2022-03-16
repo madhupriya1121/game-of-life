@@ -8,10 +8,10 @@ pipeline {
   
   stages 
   {
-   stage(`checkout`) {
+   stage('checkout') {
      steps {
        // get some code from a GitHub repository
-       git `https://github.com/madhupriya1121/game-of-life.git`
+       git 'https://github.com/madhupriya1121/game-of-life.git'
     }
   }
 }
