@@ -2,8 +2,8 @@ pipeline {
   agent any 
     tools {
        //Installed the maven version configured as 'M3' and add it to the path
-     jdk 'Java 8'
-     maven 'Maven-3.3.9'
+     jdk 'Java8'
+     maven 'Maven3.3.9'
   }
   
   stages 
